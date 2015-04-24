@@ -1,0 +1,1 @@
+Este es el entregable de la práctica de GIT de CORE.
